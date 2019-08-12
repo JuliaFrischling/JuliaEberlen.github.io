@@ -12,8 +12,8 @@ There are overall 6 files of metadata for this project, three for each data set,
 ## Online Data Collection
 
 - Codebook for the [entire dataset](https://juliafrischling.github.io/JuliaEberlen.github.io/codebook_online_all.html)
-- Codebook for the [shareable subset](https://juliafrischling.github.io/JuliaEberlen.github.io/codebook_online_not_shared.html)
-- Codebook for the [non-shareable subset](https://juliafrischling.github.io/JuliaEberlen.github.io/codebook_online_shared.html)
+- Codebook for the [shareable subset](https://juliafrischling.github.io/JuliaEberlen.github.io/codebook_online_shared.html)
+- Codebook for the [non-shareable subset](https://juliafrischling.github.io/JuliaEberlen.github.io/codebook_online_not_shared.html)
 
 
 
